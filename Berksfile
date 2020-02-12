@@ -5,9 +5,9 @@ metadata
 cookbook 'java'
 cookbook 'scala', '~> 2.1.0'
 
-cookbook 'kagent', github: "logicalclocks/kagent-chef", branch: "master"
-cookbook 'ndb', github: "logicalclocks/ndb-chef", branch: "master"
-cookbook 'conda', github: "logicalclocks/conda-chef", branch: "master"
-cookbook 'kzookeeper', github: "logicalclocks/kzookeeper", branch: "master"
+cookbook 'kagent', github: "hopsworksjenkins/kagent-chef", branch: "267"
+cookbook 'ndb', github: "hopsworksjenkins/ndb-chef", branch: "267"
+cookbook 'conda', github: "hopsworksjenkins/conda-chef", branch: "267"
+cookbook 'kzookeeper', github: "hopsworksjenkins/kzookeeper", branch: "267"
 
 
